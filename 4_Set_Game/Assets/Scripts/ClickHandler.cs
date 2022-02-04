@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class ClickHandler : MonoBehaviour
 {
-    //is mouse button up in the last frame?fdhfdh
+    //is mouse button up in the last frame?
     bool mouseUp = true;
 
     public GameObject Effect;
